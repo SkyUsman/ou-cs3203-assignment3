@@ -44,3 +44,4 @@ if __name__ == "__main__":
     numbers = [1, 5, 10, 4, 5]
     print("Sum of list ---> ", sum_list(numbers))
     print("Product of list ---> ", multiply_list(numbers))
+    print("Reversed list -----> ", reverse_list(numbers))
