@@ -1,3 +1,7 @@
+# This comment was added to fulfill part 10 of the
+# homework assignment
+
+
 
 # Function computes the sum of list elements
 def sum_list(numbers):
