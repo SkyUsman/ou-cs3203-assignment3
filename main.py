@@ -26,6 +26,18 @@ def multiply_list(numbers):
     
     return product
 
+# Reverses a list
+def reverse_list(numbers):
+
+    reversed_list = []
+    i = len(numbers) - 1
+
+    while i >= 0:
+        reversed_list.append(numbers[i])
+        i -= 1
+    
+    return reversed_list
+
 # Main function
 if __name__ == "__main__":
 
